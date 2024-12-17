@@ -1,0 +1,79 @@
+
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "\\\\wsl.localhost\\Ubuntu\\root\\aurora\\index.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open contacts.html",
+            "file": "\\\\wsl.localhost\\Ubuntu\\root\\aurora\\contacts.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open privacy.html",
+            "file": "\\\\wsl.localhost\\Ubuntu\\root\\aurora\\privacy.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open terms.html",
+            "file": "\\\\wsl.localhost\\Ubuntu\\root\\aurora\\terms.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open cookies.html",
+            "file": "\\\\wsl.localhost\\Ubuntu\\root\\aurora\\cookies.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open lounge.html",
+            "file": "\\\\wsl.localhost\\Ubuntu\\root\\aurora\\lounge.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open kitchen.html",
+            "file": "\\\\wsl.localhost\\Ubuntu\\root\\aurora\\kitchen.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open bedrooms.html",
+            "file": "\\\\wsl.localhost\\Ubuntu\\root\\aurora\\bedrooms.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open bathroom.html",
+            "file": "\\\\wsl.localhost\\Ubuntu\\root\\aurora\\bathroom.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open booking.html",
+            "file": "\\\\wsl.localhost\\Ubuntu\\root\\aurora\\booking.html"
+        }
+    ]
+}
+
+        
+
+
+
+
+    
