@@ -21,7 +21,7 @@ body{
 .links ul{
     list-style-type: none;
     display: flex;
-    gap: 20%;
+    gap: 15%;
     margin: 10px -30px;
     padding: 10px 100px;
     cursor: pointer;
@@ -72,7 +72,7 @@ p{
 .footer ul{
     list-style-type: none;
     display: flex;
-    gap: 20%;
+    gap: 15%;
     margin: -10px -70px;
     padding: 10px 100px;
     cursor: pointer;
