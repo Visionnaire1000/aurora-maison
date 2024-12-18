@@ -72,7 +72,7 @@ p{
 .footer ul{
     list-style-type: none;
     display: flex;
-    gap: 25%;
+    gap: 20%;
     margin: -10px -70px;
     padding: 10px 100px;
     cursor: pointer;
